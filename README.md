@@ -1,5 +1,8 @@
 # myprofile_app
 
+This is a profile Id app with flutter. 
+I have used column widgets, row widget, text widget
+
 A new Flutter project.
 
 ## Getting Started
